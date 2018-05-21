@@ -8,7 +8,3 @@
 *.rar
 *.tar
 *.zip
-
-
-#ignore the folder with the datasets
-/cifar-10-batches-py
